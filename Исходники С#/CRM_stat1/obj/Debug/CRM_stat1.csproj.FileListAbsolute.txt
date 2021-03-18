@@ -1,0 +1,90 @@
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat1\CRM_stat1\obj\Debug\CRM_stat1.Main.resources
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat2\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat4\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat5\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat6\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat7\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat8\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.csprojResolveAssemblyReference.cache
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.Cache
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\source\repos\CRM_stat9\CRM_stat1\obj\Debug\CRM_stat1.pdb
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\bin\Debug\CRM_stat1.exe.config
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\bin\Debug\CRM_stat1.exe
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\bin\Debug\CRM_stat1.pdb
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.csprojAssemblyReference.cache
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.Company.resources
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.Properties.Resources.resources
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.csproj.GenerateResource.cache
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.exe
+C:\Users\novergeme\Downloads\3-2 Богданов С.А\3-2 Богданов С.А\Исходники С#\CRM_stat1\obj\Debug\CRM_stat1.pdb
